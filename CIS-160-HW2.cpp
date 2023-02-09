@@ -1,8 +1,6 @@
 /*
-Programmer name: Lorena Arias Batista 
 CIS 165
 project name: Payroll
-Due date: 11/4/20
 */
 
 #include <iostream>
