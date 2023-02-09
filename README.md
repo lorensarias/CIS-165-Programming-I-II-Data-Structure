@@ -1,4 +1,4 @@
-# CIS-165-Programming-I-II-Data-Structure
+# CIS-Programming-I-II-Data-Structure
 This repository will contain the Projects done in CIS-160, CSI-161 and CSI-165. ( Programing I , Programming II and Data Structure in C++) 
 
 - **CIS 160 -** Covers the Basic in C++, Math operations, If Statements , loops , functions and more.
