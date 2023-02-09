@@ -1,8 +1,8 @@
 /*
-Programmer name: Lorena Arias Batista 
+
 CIS 165
 project name: Cellphone Sales 
-Due date: 12/16/20
+
 */
 
 #include <iostream>
