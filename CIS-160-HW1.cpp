@@ -1,8 +1,7 @@
 /*
-Programmer name: Lorena Arias Batista 
 CIS 165
 project name: Snack Shopping 
-Due date: 10/07/20
+
 */
 
 #include <iostream>
